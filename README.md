@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chezhi An
+# 👋 Hi, I'm Chezhian
 
 🎓 Final Year B.Tech Artificial Intelligence & Data Science Student  
 💻 Passionate about AI, Machine Learning, Computer Vision & Backend Development  
